@@ -172,4 +172,14 @@ footer a:hover {
 
 .dark-theme footer a {
     color: #fff;
-} 
+}
+
+.calc-header {
+    text-align: center;
+    margin-bottom: 15px;
+    color: #333;
+}
+
+.dark-theme .calc-header {
+    color: #fff;
+}
